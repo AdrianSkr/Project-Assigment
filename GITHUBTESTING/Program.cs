@@ -6,7 +6,8 @@ namespace GITHUBTESTING
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("TESTING TEST");
+            Console.WriteLine("How are you today? ");
         }
     }
 }
